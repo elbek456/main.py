@@ -1,0 +1,1 @@
+{'ism': 'Elbek', 'Familiya': 'Umaraliyev', 'yosh': 20, 'viloyati': 'Toshkent', 'tumani': 'Ohangaron', 'Kasbi': 'dasturchi'}
